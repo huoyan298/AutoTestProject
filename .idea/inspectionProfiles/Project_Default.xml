@@ -1,0 +1,28 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E402" />
+          <option value="E302" />
+          <option value="E111" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="count" />
+          <option value="test_report.TestSelenium3.Count" />
+          <option value="TestSeleniumScreenShot.SeleniumScreenShot.loginfo" />
+          <option value="str.png" />
+          <option value="str.*" />
+          <option value="TestSeleniumScreenShot.SeleniumScreenShot.self" />
+          <option value="TestSeleniumScreenShot.SeleniumScreenShot.get_screenshot_as_file" />
+          <option value="TestSeleniumScreenShot.SeleniumScreenShot.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
