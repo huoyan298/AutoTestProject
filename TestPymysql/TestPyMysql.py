@@ -1,6 +1,6 @@
 # encoding:utf-8
 
-#import unittest
+__author__ ="huoyanyang"
 import pymysql
 # conn = pymysql.Connect(
 #     host='localhost',
